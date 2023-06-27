@@ -66,7 +66,7 @@ The following stacks were used
 
 ## 🚀 Live Demo
 
-<a href="https://pablobona.github.io//dist/index.html">Live Demo</a>
+<a href="https://pablobona.github.io/Peer-to-peer-code-review/dist/index.html">Live Demo</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
