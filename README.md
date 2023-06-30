@@ -2,7 +2,7 @@
 
 <div align="center">
  <br/>
- <h1 style="color: green;">Welcome to Our JavaScript Capstone Project</h1>
+ <h1 style="color: green;">Welcome to Our JavaScript Capstone Project SeriesFeedback</h1>
  <br/>
 </div>
 
